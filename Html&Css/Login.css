@@ -1,0 +1,113 @@
+.html
+{
+    background-image: url("img1.jpg")
+}
+.c1
+{
+    padding-top: 100px;
+    font-size: 30;
+    display:flex;
+    align-items: center;
+    flex-flow: column;
+    justify-content: space-between;
+}
+.input
+{
+    background: transparent;
+    color:white;
+}
+.text
+{
+    padding-top: 20px;
+}
+.c166
+{
+    padding-top: 100px;
+}
+.c16{
+padding-top:50px;
+justify-content: space-between;
+}
+.c161
+{
+    width: 300px;
+    background-color: orchid;
+    text-align: center;
+    color:white;
+}
+.c162
+{
+    width: 300px;
+    background-color: blue;
+    text-align: center;
+    color:white;
+}
+.c163
+{
+    width: 300px;
+    background-color: blueviolet;
+    text-align: center;
+    color:white;
+}
+.c15
+{
+    font-size:13px;
+    color:blue;
+    display: flex;
+    flex-flow: row;
+    
+    justify-content: space-between;
+}
+.c151
+{
+    padding-right: 125px;
+}
+.c14
+{
+    padding-top: 15px;
+}
+.c11
+{
+    width: 250px;
+    background-color: blue;
+    text-align: center;
+    
+    color:white;
+}
+.c2
+{
+    height: 35px;
+    width:250px;
+    color:white;
+    font-size: 15;
+}
+
+.cx{
+    width: 350px;
+    padding-top:20px;
+    font-size: 18px;
+    text-align: center;
+    flex-flow: column;
+}
+.cx1
+{
+    background-color: yellowgreen;
+}
+.cx2
+{
+    
+    background-color: indianred;
+}
+.cx3
+{
+    background-color: orange;
+}
+.c12
+{
+    background: transparent;
+    padding-top: 20px;
+}
+.c13
+{
+    padding-top: 20px;
+}
